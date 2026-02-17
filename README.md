@@ -29,17 +29,13 @@
   <br>
 
   <!-- Stats -->
-  <h3>📊 GitHub Stats</h3>
+  <h3>GitHub Stats</h3>
 
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiForge&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats"/>
   &nbsp;&nbsp;
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=SaiForge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
 
   <br><br>
 
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiForge&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-
-  <br><br>
 
  
 
