@@ -55,11 +55,6 @@
 
 <br/>
 
-<img width="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiForge&theme=tokyonight" alt="Repos per Language"/>
-&nbsp;
-<img width="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiForge&theme=tokyonight" alt="Most Commit Language"/>
-&nbsp;
-<img width="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiForge&theme=tokyonight" alt="Stats"/>
 
 <br/><br/>
 
