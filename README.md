@@ -47,9 +47,19 @@
 
 ### 📊 GitHub Stats
 
-<img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiForge&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats"/>
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiForge&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats"/>
+
+<br/>
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiForge&theme=tokyonight" alt="Profile Summary"/>
+
+<br/>
+
+<img width="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiForge&theme=tokyonight" alt="Repos per Language"/>
 &nbsp;
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=SaiForge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats"/>
+<img width="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiForge&theme=tokyonight" alt="Most Commit Language"/>
+&nbsp;
+<img width="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiForge&theme=tokyonight" alt="Stats"/>
 
 <br/><br/>
 
